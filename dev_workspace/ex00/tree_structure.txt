@@ -1,12 +1,41 @@
 .:
 total 4
-drwxr-xr-x  3 yabu-awa _amman   18 Sep 30 13:30 .
-drwx------ 17 yabu-awa _amman 4096 Sep 30 13:31 ..
-drwxr-xr-x  2 yabu-awa _amman   37 Sep 30 13:31 ex00
+drwxr-xr-x  5 yabu-awa _amman   52 Oct  1 11:50 .
+drwxr-x--- 22 yabu-awa _amman 4096 Oct  1 11:52 ..
+drwxr-xr-x  2 yabu-awa _amman    6 Oct  1 11:50 arechives
+drwxr-xr-x  3 yabu-awa _amman   17 Oct  1 11:51 projects
+drwxr-xr-x  2 yabu-awa _amman    6 Oct  1 11:50 tools
 
-./ex00:
-total 12
-drwxr-xr-x 2 yabu-awa _amman    37 Sep 30 13:31 .
-drwxr-xr-x 3 yabu-awa _amman    18 Sep 30 13:30 ..
--rw------- 1 yabu-awa _amman 12288 Sep 30 13:31 .tree_structure.txt.swp
+./arechives:
+total 0
+drwxr-xr-x 2 yabu-awa _amman  6 Oct  1 11:50 .
+drwxr-xr-x 5 yabu-awa _amman 52 Oct  1 11:50 ..
+
+./projects:
+total 0
+drwxr-xr-x 3 yabu-awa _amman 17 Oct  1 11:51 .
+drwxr-xr-x 5 yabu-awa _amman 52 Oct  1 11:50 ..
+drwxr-xr-x 4 yabu-awa _amman 37 Oct  1 11:51 web
+
+./projects/web:
+total 0
+drwxr-xr-x 4 yabu-awa _amman 37 Oct  1 11:51 .
+drwxr-xr-x 3 yabu-awa _amman 17 Oct  1 11:51 ..
+drwxr-xr-x 2 yabu-awa _amman  6 Oct  1 11:51 backend
+drwxr-xr-x 2 yabu-awa _amman  6 Oct  1 11:51 frontend
+
+./projects/web/backend:
+total 0
+drwxr-xr-x 2 yabu-awa _amman  6 Oct  1 11:51 .
+drwxr-xr-x 4 yabu-awa _amman 37 Oct  1 11:51 ..
+
+./projects/web/frontend:
+total 0
+drwxr-xr-x 2 yabu-awa _amman  6 Oct  1 11:51 .
+drwxr-xr-x 4 yabu-awa _amman 37 Oct  1 11:51 ..
+
+./tools:
+total 0
+drwxr-xr-x 2 yabu-awa _amman  6 Oct  1 11:50 .
+drwxr-xr-x 5 yabu-awa _amman 52 Oct  1 11:50 ..
 
