@@ -1,0 +1,5 @@
+to edit a file = vim file.txt -> :wq
+edit a previous commit = git commit --amend
+add = git add .
+commit = git commit -m"git comment"
+push = git push
